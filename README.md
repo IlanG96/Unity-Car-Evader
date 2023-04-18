@@ -11,4 +11,4 @@ Try to get as many points as you can!
 
 
 ## Itch Link
-https://ilang.itch.io/car-evader2
+[Car Evader](https://ilang.itch.io/car-evader2)
